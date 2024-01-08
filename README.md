@@ -40,6 +40,7 @@ Fig. 1:- Example of Multi-Line Command
 2. Command history:- Using the up arrow we can execute the previous commands.
 3. Command Editing:- If a long command has some mistake, the user may press
 Ctrl+A to move the cursor to the start of the line and make corrections.
+
 Part - D (ncurses library)
 Extend the shell created in the previous part-C using ncurses by introducing your own ‘vi’
 command which is a text editor. vi <filename> will open an editor terminal, that
